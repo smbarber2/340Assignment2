@@ -12,4 +12,5 @@
      * http://localhost:8080/hello (GET)
      * http://localhost:8080/bokoblin?name=bokoblin (GET)
      * http://localhost:8080/bokoblin?name=moblin (GET)
+     * http://localhost:8080/bokoblin?name=swift_carrot (GET)
      * http://localhost:8080/bokoblin?name= [or input in the name of anything from the Breath of the Wild Compendium!] (GET)
